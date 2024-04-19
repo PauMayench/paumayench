@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
-<h3 align="center">A computer engineering student at FIB-UPC</h3>
+<h3 align="center">Computer Engineering Student at FIB-UPC | Passionate About Coding</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
+Welcome to my GitHub! Here you'll find a mix of projects, big and small, showcasing my journey through the fascinating world of coding. I love diving into new challenges and learning along the way.
+
+🔭 Exploring the Possibilities: I work on whatever catches my interest—whether it's a robust software solution or a tiny script that makes life easier. The joy of coding drives my projects.
+
+💡 Passionate About Learning: Each repository here is a part of my learning curve, filled with experiments and discoveries. I believe that the best way to grow is by continuously pushing the boundaries of what I know.
+
+🌟 Enjoying the Journey: For me, coding is not just about the end result but the process of creativity and problem-solving. I enjoy every step of the coding experience, and I hope to inspire others to see the fun in coding too.
+
+
+Feel free to browse my repositories and reach out if you're interested in collaborating on a project or just want to chat about tech!
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +49,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paumayench&show_icons=true&locale=en&layout=compact" alt="paumayench" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paumayench&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="paumayench" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paumayench&show_icons=true&locale=en" alt="paumayench" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paumayench&theme=vue-dark&show_icons=true&locale=en" alt="paumayench" /></p>
 
 

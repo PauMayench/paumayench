@@ -49,6 +49,13 @@ Feel free to browse my repositories and reach out if you're interested in collab
 
 </p>
 
+<p>
+<h3>
+
+Stats:
+</h3>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paumayench&show_icons=true&theme=dark&locale=en&layout=compact" alt="paumayench" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paumayench&theme=dark&show_icons=true&locale=en" alt="paumayench" /></p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
-<h3 align="center">Computer Engineering Student at FIB-UPC | Passionate About Coding</h3>
+<h3 align="center">Quantum Information Science and Technology Student at TU Delft | Passionate About Coding</h3>
 
 <h3 align="left"></h3>
 <p align="left">
@@ -12,7 +12,7 @@ Welcome to my GitHub! Here you'll find a mix of projects, big and small, showcas
 🌟 Enjoying the Journey: For me, coding is not just about the end result but the process of creativity and problem-solving. I enjoy every step of the coding experience, and I hope to inspire others to see the fun in coding too.
 
 
-Feel free to browse my repositories and reach out if you're interested in collaborating on a project or just want to chat about tech!
+Feel free to browse my repositories and reach out if you're interested :)
 
 </p>
 

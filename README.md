@@ -16,6 +16,13 @@ Feel free to browse my repositories or reach out if you're interested :)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.ibm.com/quantum/qiskit" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/>
+  </a>
+
+  <a href="https://pennylane.ai/" target="_blank" rel="noreferrer">
+    <img src="https://assets.cloud.pennylane.ai/docs/pennylane-logo.png" alt="pennylane" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
